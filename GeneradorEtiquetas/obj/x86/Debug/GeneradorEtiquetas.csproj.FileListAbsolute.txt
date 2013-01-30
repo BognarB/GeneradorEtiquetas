@@ -1,0 +1,9 @@
+c:\users\ahta\documents\visual studio 2010\Projects\GeneradorEtiquetas\GeneradorEtiquetas\bin\Debug\GeneradorEtiquetas.exe
+c:\users\ahta\documents\visual studio 2010\Projects\GeneradorEtiquetas\GeneradorEtiquetas\bin\Debug\GeneradorEtiquetas.pdb
+c:\users\ahta\documents\visual studio 2010\Projects\GeneradorEtiquetas\GeneradorEtiquetas\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\ahta\documents\visual studio 2010\Projects\GeneradorEtiquetas\GeneradorEtiquetas\obj\x86\Debug\GeneradorEtiquetas.Properties.Resources.resources
+c:\users\ahta\documents\visual studio 2010\Projects\GeneradorEtiquetas\GeneradorEtiquetas\obj\x86\Debug\ResGen.read.1.tlog
+c:\users\ahta\documents\visual studio 2010\Projects\GeneradorEtiquetas\GeneradorEtiquetas\obj\x86\Debug\ResGen.write.1.tlog
+c:\users\ahta\documents\visual studio 2010\Projects\GeneradorEtiquetas\GeneradorEtiquetas\obj\x86\Debug\GeneradorEtiquetas.exe
+c:\users\ahta\documents\visual studio 2010\Projects\GeneradorEtiquetas\GeneradorEtiquetas\obj\x86\Debug\GeneradorEtiquetas.pdb
+c:\users\ahta\documents\visual studio 2010\Projects\GeneradorEtiquetas\GeneradorEtiquetas\obj\x86\Debug\GeneradorEtiquetas.Form1.resources
